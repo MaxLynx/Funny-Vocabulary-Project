@@ -1,0 +1,485 @@
+villa - villa, house
+alta - tall, high, deep
+antiqua - antique, old
+longa - long
+magna - large, great
+pictura - picture
+nova - new
+terra - land, earth
+prima - first
+sub - under
+corna - horn
+est - is
+habere - have
+casa - small house
+via - street
+parva - small
+lata - wide, broad
+bona - good
+copia - plenty
+fama - fame
+provincia - province
+multa - many
+nominare - to name
+postea - later
+non - not
+in - in
+aqua - water
+agricola - farmer
+bestia -	beast
+figura - figure, shape
+flamma - flame
+herba -	herb
+insula -	island
+lingua -	language
+nauta - sailor
+pirata - pirate
+schola - school
+alba - white
+amica - friendly
+beata - happy
+maritima - sea
+mea - me
+mira - strange
+nota - noted
+obscura - dark
+periculosa -	dangerous
+propinqua - near to
+pulchra - beautiful
+quieta -	quiet
+circum -	around
+filia - daughter
+folium - leaf
+aureus - golden
+plumbeus - leaden
+mutare - to change
+vulnerare - to wound
+vitare - to avoid
+morbus - disease
+populus - people
+radius - ray
+arma - arms (weapons)
+saxum - rock
+evocare - call forth
+femina - woman
+densa - thick
+territa - frightened
+invidiosa - jealous
+superba - proud
+desidare - to want
+laudare - to praise
+servare - to save
+nympha - nymph
+grata - pleasing
+libera - free
+postulare - to demand
+sola - alone
+janua - door
+temptare - to try
+trans - across
+pecunia - money
+ripa - river bank
+umbra -	shade, ghost
+annus -	year
+bellum - war
+initium -	beginning
+mortuus - dead
+occupare - to occupy
+pugnare - fight
+vigilare - to stand watch
+post - after
+ala - wing
+patria - native country
+porta - gate
+discipulus - pupil
+locus - place
+magister - teacher
+lucere - to shine
+luxi - to shine
+fluere - to flow
+fluxi - to flow
+regare - to rule
+rexi - to rule
+egregius - excellent
+docere - teach
+quaerere - seek
+fumus - smoke
+proximus - nearest
+currere - to run
+extra - beyond
+legatus - representative
+navis - ship
+pars - part
+partis - part
+pax - peace
+pacis - peace
+urbs - city
+quinque - five
+augere - to increase
+obtinere - to obtain
+committere - entrust
+satis - enough
+caput - head
+capitis -	head
+corpus - body
+eques -	horseman
+equitis -	horseman
+miles - soldier
+militis - soldier
+tempus - time
+pratiuosus -	precious
+firmiter -	firmly
+dolor - grief
+finis - limit, end
+munire - fortify
+tyrannus - tyrant
+imperium - empire
+decemviri - group of 10 magistrates
+civis - citizen
+lex - law
+legis - law
+cupius - eager
+probare - test, try
+deponere - to lay down
+perficere - to finish
+lignum - wood
+custos - watchman
+custodis - watchman
+flumen - river
+homo - man
+hostis - enemy
+mons - mountain
+montis - mountain
+alter - other
+flavus - yellow
+deportare - to remove
+construere - to build
+tremere - to tremble
+transire - to go across
+summus - highest
+agmen - marching army
+iter - trip
+internis - trip
+lux - light
+lucis - light
+gemma - jewel
+luna - moon
+stella - star
+inter - between, among
+celeriter - accelerate
+noctu - night
+regia - palace
+ager - field
+deus - god
+fluvius - stream, river
+focus - hearth
+gladius - sword
+caelum - sky
+donum - gift
+verbum - word
+apertus - open
+audit - hear
+meminsse - remember
+ambulare - to walk
+possum - to be able
+amare - to love
+celare -	to hide
+clamare - to shout
+habitare - to live
+laborare - to work
+monstrare - to show
+narrare - to tell
+necare - to kill
+orare - to ask for
+portare - to carry
+spectare - to watch
+vastare - to destroy
+vocare - to call
+volare - to fly
+monere - to warn
+timere - to fear
+valere - to be well
+videre - to see
+misera - sad
+irata - angry
+laeta - happy
+saggita - arrow
+manere - to stay
+sedere - to sit
+dicit - says
+errare - to wander, err
+expectare - to expect
+baca - berry
+clava - club
+galea - helmet
+cura - care
+hora - hour
+scutum - shield
+adornatus - decorated
+validus - strong, well
+vale - farewell
+jactare - to hurl
+bene - well
+vir - man
+apparere - to appear
+equus - horse
+oleum - oil
+appelare - to name
+rogare - to ask
+consilium - plan
+flammeus - fiery
+ligneous - wooden
+secreto - secretly
+candida - straightforward
+vita - life
+filius - son
+servus - slave
+auxilium - help
+frumentum - grain
+mittere - to send
+vincere - to conquer
+punire - to punish
+pro - for
+pro - before
+paeninsula - peninsula
+unda - wave
+minime - no
+coma - hair
+corona - crown
+laurus - laurel tree
+puer - boy
+ramus - branch
+bracchium - arm
+medius - middle
+sacer - holy
+sacra - holy
+ardere - to burn 
+arsi - to burn
+deligere - choose
+legi - choose
+custodire - guard, watch
+diligenter - carefully
+scientia - science, knowledge
+vicinius - neighbor
+medicus - doctor, medicine
+pauci - few
+fecere - to make
+feci - to make
+sonus - sound
+secundus - second
+aedificum - edifice
+dolere - grieve
+accipere - accept
+aperire - to open
+hortus - garden
+aurum - gold
+praemium - prize
+bibare - to drink
+edere - to eat
+vesperi - in the evening
+saccus - bag
+socius - companion
+somnus - sleep
+ventus - wind
+malus - bad, evil, wicked
+exitare - to stir up
+dormire - to sleep
+mater - mother
+pater - father
+ater - black
+geminus - twin
+vivus - alive
+conspicere - to look at
+ante - before
+numerus - number
+ferus - fierce
+fugare - to flee
+procedere - to proceed
+processi - to proceed
+formica - ant
+delere - destroy
+cadere - to fall
+cecidi - to fall
+invadere - to invade
+occidere - cut down
+crista - crest
+maga - sorceress
+penna - feather
+potentia - power
+campus - field
+oculus - eye
+rostrum - beak
+absum - be absent
+invenire - to find
+constitutare - to decide
+opprimere - to press down
+praecipere - to teach
+protegere - to protect
+lumen - light
+desperare - to despair
+retinare - to retain
+subducere - to haul up
+dimittere - dismiss
+dimisi - dismiss
+petere - to pursue
+avide - avidly
+pomum - fruit
+gustare - to taste
+tenere - to hold
+recipere - to take
+reducare - bring back
+relinquere - leave
+provocare - provoke
+remus - oar
+columba - dove
+malificum - evil deed
+verus - true, genuine
+terrare - to frighten
+texare - to weave
+certe - surely
+temere - rashly
+facile - easily
+audacia - boldness
+poena - punishment
+colloquium - conversation
+nihil - nothing
+tacitus - silent
+circumspectare - to look around
+lacrimare - to cry, weep
+incipere - begin
+spelunca - cave
+perire - to perish
+fidus - faithful
+spina - thorn
+dominus - master
+verum - truth
+latere - hide
+murus - wall
+barbarus - uncivilized
+durus - hard
+avunculus - uncle
+dubium - doubt
+negotium - business
+castra - camp
+mille - thousand
+efficare - finish
+recte - in a straight line
+nomen - name
+nominis - name
+sapiens - wise
+sapientis - wise
+significare - signify
+claudere - close
+condicio - condition
+milia - miles
+pes - foot
+pedis - foot
+nuntiare - to announce
+vehementer - violently
+vestigium - footprint
+mensis - month
+sol - sun
+solis - sun
+neglegere - to disregard
+aquila - eagle
+acervus - heap
+modus - manner
+avis - bird
+mors - death
+mortis - death
+ovis - sheep
+semen - seed
+plenus - full
+saevus - fierce
+totus - whole
+crudelis - cruel
+gravis - heavy
+serpens - snake
+serpentis - snake
+cantare - to sing
+jubere - to order
+decedere - to depart
+respicare - to look back
+vivere - to live
+draco - dragon
+placidus - calm
+ludere - to play
+lusi - to play
+spumosus - foamy
+contendere - contend
+cauda - tail
+spatium - space
+concurrere - to run together
+confligere - to strike together
+evadere - to escape
+resistere - to resist
+sentire - to sense
+taurus - bull
+cervus - stag
+tabernaculum - tent
+explorator - explorer
+genus - kind
+imperator - leader
+legio - legion
+legionis - legion
+leo - lion
+leonis - lion
+perfidus - faithless
+senator - senator
+dens - tooth
+dentis - tooth
+canis - canine
+juvenis - youth
+frater - brother
+fratris - brother
+arbor - tree
+arboris - tree
+soror - sister
+uxor - wife
+multitudinis - crowd
+animal - animal
+epistula - letter
+vox - voice
+vocis - voice
+dexter - on the right
+sinister - on the left
+acer - sharp
+acris - sharp
+acre - sharp
+brevis - short
+felix - happy
+felicis - happy
+omnia - all
+potens - powerful
+potentis - powerful
+ferox - wild
+ferocis - wild
+fortis - brave
+vexare - to harass
+male - badly
+liber - book
+li - book
+judicium - judgment
+tertius - third
+ultimus - last
+infelix - unhappy
+ridere - to laugh
+melior - better
+pejor - worse
+major - larger
+mare - sea
+minor - smaller
+minus - smaller
+plus - more
+difficilis - difficult
+dissimilis - dissimilar
+frustra - in vain
+superbe - proudly
+factum - fact
+unguentum - ointment
+venenum - poison
+ignis - fire
+necese - necessary
+arare - to plow
+expirare - expire
+jungere - to join

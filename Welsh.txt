@@ -1,0 +1,176 @@
+main - thin
+nain - grandmother
+mawr - big
+nawr - now
+llom - bare
+llon - merry
+llong - ship
+fy mhant - my valley
+fy nhant - my lord
+fu nghant - my rim
+fy mhost - my post
+fy nhost - my sore
+fy nghost - my cost
+fy mhib - my pipe
+fy nghib - my cup
+pan - when
+tan - under
+can - white
+pen - head
+cen - film
+pib - pipe
+cib - cup
+post - post
+tost - sore
+cost - cost
+pwt - stump
+twt - neat
+cwt - sty
+ban - loud
+dan - under
+gan - with
+dw?r - water
+gw?r - man
+drom - heavy
+grom - bent
+goch - red
+boch - cheek
+pabell - tent
+y pabell - the tent
+pedol - shoe
+ei bedol - her shoe
+pe?l - ball
+y be?l - the ball
+pont - bridge
+y bont - the bridge
+punt - pound
+y bunt - the pound
+pwll - pit
+ei bwll - her pit
+pysgoden - fish
+ei bysgoden - her fish
+taith - journey
+y daith - the journey
+teisen - cake
+y deisen - the cake
+ti?m - team
+ei di?m - her team
+torth - loaf
+y dorth - the loaf
+tudalen - page
+y dudalen - a page
+twll - hole
+ei dwll - her hole
+ty? - house
+ei dy? - her house
+cath - cat
+ei gath - her cat
+ceg - mouth
+ei geg - her mouth
+ci - dog
+ei gi - her dog
+corff - body
+ei gorff - her body
+cunnog - milk pail
+ei gunnog - her milk pail
+cwm - valley
+ei gwm - her valley
+cyllell - knife
+y gyllell - the knife
+barv - beard
+bardd - poet
+prif - first
+pridd - sod
+wyf - I am
+gwydd - goose
+ei phost - his post
+ei thost - his sore
+ffon - stick
+y thon - the wave
+sad - solid
+llad - grace
+soddi - to sink
+llodi - to comfort
+sw - zoo
+llw - curse
+calon - heart
+ei chalon - her heart
+cegin - kitchen
+ei chegin - her kitchen
+cinio - dinner
+ei chinio - her dinner
+coron - crown
+ei choron - her crown
+cwch - boat
+ei chwch - her boat
+cyllell - knife
+ei chyllell - her knife
+llan - church
+lan - up
+llestr - dish
+ei lestr - his dish
+lliw - color
+ei liw - his color
+llo - calf
+ei lo - his calf
+llun - picture
+ei lun - his picture
+llyfr - book
+ei lyfr - his book
+llwybr - path
+ei lwybr - his path
+rhaff - rope
+hen raf - old rope
+rhew - frost
+ei rew - his frost
+rhif - number
+ei rif - his number
+rhosyn - rose
+ei rosyn - his rose
+rhyfel - war
+ei ryfel - his war
+rhwystr - obstacle
+ei rwystr - his obstacle
+haf - summer
+heol - road
+hogyn - lad
+hwyr - evening
+hydref - autumn
+pan - when
+pen - head
+tin - rump
+ton - wave
+tun - tin
+twn - broken
+hyn - this
+yr - the
+da?r - leader
+pa?r - pair
+ca?r - car
+pe?r - sweet
+he?n - old
+pig - beak
+do?r - door
+co?r - choir
+pu?r - pure
+dw?r - water
+din - man
+arien - money
+ei harien - his money
+enw - name
+ei henw - his name
+ia?r - hen
+ei hia?r - her hen
+oen - lamb
+ei hoen - his lamb
+uffern - hell
+ei huffern - his hell
+wats - watch
+ei wats - his watch
+ynys - island
+ei hynys - his island
+llyfr - book
+cegin - kitchen
+teisen - cake
+cawr - giant
+halen - salt

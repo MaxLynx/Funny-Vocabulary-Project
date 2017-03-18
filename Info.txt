@@ -1,0 +1,9 @@
+
+Our database is the best way to put your vocabularies in the right order. 
+Use F3 key to transfer information from txt-file and then do what you want 
+with our simple "kind moderating system". 
+TIPS:
+* Input "Delete all words" in deleting mode to clean your database
+* Use this program for learning. Simply download words you need to learn in database and then try to find equivalents with funny game mode
+
+We hope, that you will like our funny style :)) 
